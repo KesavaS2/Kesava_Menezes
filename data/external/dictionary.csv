@@ -1,0 +1,16 @@
+variavel,descrição,tipo,subtipo
+ID, Identificador único do indivíduo,qualitativa,nominal
+Age, Idade do indivíduo em anos.,quantitativa,discreta
+Gender, Gênero do indivíduo.,qualitativa,nominal
+Bedtime,Hora em que o indivíduo foi para a cama. Formato de data e hora: YYYY-MM-DD HH:MM,qualitativa,nominal
+ Wakeup time,Hora em que o indivíduo acordou. Formato de data e hora: YYYY-MM-DD HH:MM,qualitativa,nominal
+ Sleep duration,Duração total do sono do indivíduo em horas,quantitativa,contínua
+ Sleep efficiency,Eficiência do sono do indivíduo,quantitativa,contínua
+REM sleep percentage,Percentual de sono REM (Rapid Eye Movement) do indivíduo em relação ao tempo total de sono,quantitativa,discreta
+ Deep sleep percentage,Percentual de sono profundo do indivíduo em relação ao tempo total de sono,quantitativa,discreta
+ Light sleep percentage,Percentual de sono leve do indivíduo em relação ao tempo total de sono.,quantitativa,discreta
+ Awakenings,Número de vezes que o indivíduo despertou durante o período de sono,quantitativa,discreta
+ Caffeine consumption,Quantidade de cafeína consumida pelo indivíduo em miligramas (mg) durante o dia,quantitativa,contínua
+ Alcohol consumption,Quantidade de álcool consumida pelo indivíduo em gramas (g) durante o dia,quantitativa,contínua
+ Smoking status,Status de fumante do indivíduo. Possíveis valores incluem Yes (Sim) e No (Não),qualitativa,nominal
+ Exercise frequency,Frequência com que o indivíduo pratica exercícios físicos durante a semana,quantitativa,discreta
