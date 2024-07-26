@@ -1,13 +1,18 @@
-# <Título do projeto>
+# <Eficiência do Sono: Análise de Dados>
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+O projeto visa analisar a eficiência do sono usando o conjunto de dados "Sleep Efficiency" do Kaggle. O objetivo principal é explorar os fatores que afetam a qualidade do sono e desenvolver insights úteis. A análise incluirá a investigação de variáveis como horas de sono, idade, consumo de álcool, consumo de café, frequência de exercicios na semana e outras que possam impactar a eficiência do sono.
+
+A qualidade do sono é essencial para a saúde e o bem-estar. Sono ruim está ligado a problemas como obesidade, diabetes, doenças cardíacas e problemas mentais. Entender os fatores que afetam o sono pode ajudar a criar melhores intervenções e políticas de saúde.
+
+É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
 ## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
- - ...
+ - [Beatriz Eduão](https://github.com/beduao)
+ - [Gessyca Moraes](https://github.com/gessycamayhara)
+ - [Kesava Menezes](https://github.com/KesavaS2)
+ - [Larissa Ajala](https://github.com/larissa-stefany)
+ - [Ricardo Franco](https://github.com/francocontigo)
+ - [Vitor Pires](https://github.com/vikpires)
 
 ---
 
