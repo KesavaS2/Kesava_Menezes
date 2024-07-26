@@ -2,7 +2,7 @@
 
 O projeto visa analisar a eficiência do sono usando o conjunto de dados "Sleep Efficiency" do Kaggle. O objetivo principal é explorar os fatores que afetam a qualidade do sono e desenvolver insights úteis. A análise incluirá a investigação de variáveis como horas de sono, idade, consumo de álcool, consumo de café, frequência de exercicios na semana e outras que possam impactar a eficiência do sono.
 
-A qualidade do sono é essencial para a saúde e o bem-estar. Sono ruim está ligado a problemas como obesidade, diabetes, doenças cardíacas e problemas mentais. Entender os fatores que afetam o sono pode ajudar a criar melhores intervenções e políticas de saúde.
+A qualidade do sono é essencial para a saúde e o bem-estar. Entender certos fatores que afetam o sono pode ajudar a criar melhores intervenções e políticas de saúde.
 
 É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
 
